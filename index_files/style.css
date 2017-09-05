@@ -500,7 +500,7 @@ ul.nav-menu li {
 
 .hover-background{
 	position: absolute;
-	background-color: #111111;
+	/*background-color: #111111;*/
 	z-index: -1;
 	width: 300%;
 	height: 300%;
@@ -518,8 +518,9 @@ ul.nav-menu li {
 }
 
 ul.nav-menu li:hover{		
-	border-bottom-color: #111111;
-	color: #f4d03f;
+	/*border-bottom-color: #111111;*/
+	/*color: #f4d03f;*/
+    color: #000000;
 }
 
 ul.nav-menu li:hover .hover-background,ul.nav-menu li.selected .hover-background {
