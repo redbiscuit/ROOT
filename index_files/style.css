@@ -308,7 +308,7 @@ h3.title {
 }
 
 
-h1{color: #f4d03f; display: inline-block; text-transform: uppercase; position: relative;}
+h1{color: #FFFFFF; display: inline-block; text-transform: uppercase; position: relative;}
 h2{color: #f4d03f; position: relative;}
 h3{position: relative; margin-bottom: 20px;}
 .invert{color: #fff;}
@@ -476,7 +476,7 @@ span.year{color: #F9BF3B; float: right;}
 	position: relative;
 	display: block;
 	clear: both;
-	background-color: #f4d03f;
+	background-color: #FFFFFF;
 	height: 50%;
 	min-height: 305px;
 	text-align: right;
@@ -532,12 +532,12 @@ ul.nav-menu li.selected{
 	background-color: #111111;
 	border-bottom-color: #111111;
 	border-right: none;
-	color: #f4d03f;
+	color: #FFFFFF;
 }
 
 ul.nav-menu li span {
 	padding-right: 25px;
-	border-right: 2px solid #e1c03a;
+	border-right: 2px solid #111111;
 	margin-right: 15px;
 	text-transform: uppercase;
 }
@@ -725,6 +725,7 @@ ul.personal-info li {
 	display: inline-block;
 	margin-left: 9px;
 	text-transform: capitalize;
+    width:300px;
 }
 
 .personal-info label {
